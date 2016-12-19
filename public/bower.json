@@ -1,0 +1,17 @@
+{
+  "name": "reddogs-skeleton",
+  "homepage": "https://github.com/reddogs-at/reddogs-skeleton",
+  "authors": [
+    "Johannes Lichtenwallner <johannes@lichtenwallner.at>"
+  ],
+  "description": "Reddogs Skeleton Application",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

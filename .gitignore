@@ -1,5 +1,7 @@
 /.project
 /.buildpath
-
-/vendor/
 /.settings/
+
+/public/bower_components/
+/public/node_modules
+/vendor/
